@@ -29,7 +29,7 @@ GEM
     atomic (1.1.14)
     builder (3.1.4)
     coderay (1.0.9)
-    epilicious (0.1.2)
+    epilicious (0.2.0)
       nokogiri
     erubis (2.7.0)
     hike (1.2.3)
@@ -44,7 +44,7 @@ GEM
     multi_json (1.8.0)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
-    pg (0.15.1)
+    pg (0.17.0)
     polyglot (0.3.3)
     pry (0.9.12.2)
       coderay (~> 1.0.5)
