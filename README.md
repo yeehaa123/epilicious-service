@@ -1,6 +1,6 @@
 ## Epilicious Service
 
-This service provides your with the best hamburger recipes from Epicurious.
+This service provides your with the best new recipes from Epicurious.
 
 ### Epilicious Gem
 
